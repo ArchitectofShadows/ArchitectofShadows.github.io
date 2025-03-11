@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "윤강혁"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.png"
   bio              : "개발자가 되고픈 청년"
   location         : "한국 어딘가"
   email            :
