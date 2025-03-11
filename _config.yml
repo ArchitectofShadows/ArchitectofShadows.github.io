@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "매일매일 기록하며 성장하기  "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "윤강혁"
 description              : "An amazing website."
 url                      : "https://ArchitectofShadows.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "윤강혁"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "개발자가 되고픈 청년"
+  location         : "한국 어딘가"
   email            :
   links:
     - label: "Email"
